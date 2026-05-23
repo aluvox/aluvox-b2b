@@ -41,24 +41,24 @@ Aluvox is a luggage OEM/ODM manufacturer based in Dongguan, Guangdong, China. We
 This repository contains technical documentation for brand buyers, sourcing managers, and procurement engineers evaluating Aluvox as an OEM partner.
 
 ### Materials
-- [Series 5 Aluminum-Magnesium Alloy](materials/aluminum-series-5.md)
-- [Polycarbonate (PC)](materials/polycarbonate.md)
-- [ABS](materials/abs.md)
-- [Titanium](materials/titanium.md)
+- [Series 5 Aluminum-Magnesium Alloy](aluminum-series-5.md)
+- [Polycarbonate (PC)](polycarbonate.md)
+- [ABS](abs.md)
+- [Titanium](titanium.md)
 
 ### Testing Standards
-- [Drop Test — ISTA 2A / ASTM D5276](testing-standards/drop-test.md)
-- [Handle Fatigue Test](testing-standards/handle-fatigue.md)
-- [Wheel Drag Test](testing-standards/wheel-drag.md)
+- [Drop Test — ISTA 2A / ASTM D5276](drop-test.md)
+- [Handle Fatigue Test](handle-fatigue.md)
+- [Wheel Drag Test](wheel-drag.md)
 
 ### OEM Process
-- [Sampling Guide](oem-process/sampling-guide.md)
-- [MOQ Guide](oem-process/moq-guide.md)
-- [Payment Terms](oem-process/payment-terms.md)
+- [Sampling Guide](sampling-guide.md)
+- [MOQ Guide](moq-guide.md)
+- [Payment Terms](payment-terms.md)
 
 ### Product Specifications
-- [TT-001 Titanium Luggage](product-specs/tt-001-titanium.md)
-- [MB-018 Zipperless Carry-On](product-specs/mb-018-zipperless.md)
+- [TT-001 Titanium Luggage](tt-001-titanium.md)
+- [MB-018 Zipperless Carry-On](mb-018-zipperless.md)
 
 ## Contact
 
